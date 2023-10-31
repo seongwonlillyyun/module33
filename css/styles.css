@@ -1,0 +1,51 @@
+#header-nav{
+    background-color:lightgray;
+    border-radius: 0;
+    border:0;
+}
+.container{
+    width:100%;
+}
+.nav-brand{
+    color:black;
+    text-decoration: none;
+    display:flex;
+    
+}
+.nav-brand h1{
+    padding-left:50px;
+}
+
+#nav-list{
+    color:black;
+    text-align:center;
+
+}
+
+#nav-list a:hover{
+    background:white;
+}
+
+button{
+    margin-top:0;
+}
+.menu-content{
+    background-color: lightgray;
+    padding:10px;
+    
+}
+.row{
+    padding:20px;
+}
+.navbar-brand a:focus, .navbar-brand a:hover {
+	text-decoration: none;
+}
+.menu{
+    width:100%;
+}
+.navbar-toggle{
+    margin-top:20px;
+    background-color: white;
+}
+
+
